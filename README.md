@@ -21,9 +21,9 @@ already have an old version of Rust installed, then run `rustup update` to insta
 
 ```shell
 $ rustc --version
-rustc 1.54.0 (a178d0322 2021-07-26)
+rustc 1.85.1 (4eb161250 2025-03-15)
 $ cargo --version
-cargo 1.54.0 (5ae8d74b3 2021-06-22)
+cargo 1.85.1 (d73d2caf9 2024-12-31)
 ```
 
 - Clone or download this repository to your computer.
